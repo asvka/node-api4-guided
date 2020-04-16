@@ -1,5 +1,5 @@
 // this reads in all of our environment variables from .env
-// require("dotenv").config()
+require("dotenv").config()
 
 const express = require("express")
 const helmet = require("helmet")
